@@ -6,4 +6,3 @@
 - Chapter 3.0:  Strings, Templates, Vectors
 - Chapter 3.1: Insertion Sort
    
-#^
